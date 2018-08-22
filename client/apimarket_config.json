@@ -1,5 +1,5 @@
-// This file is an example - you should download your config file from the api.market
 {
+    "comment": "This file is an example - you should download your config file from the api.market",
     "walletPassword": "PUT_YOUR_WALLET_PASSWORD_HERE",
     "accountName": "sjvch...",
     "accountPrivateKeyEncrypted": "U2Fsd...",
