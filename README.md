@@ -39,7 +39,7 @@ https://hello-ore-dot-{yourProjectName}.appspot.com/apiaction?myparam=exampleval
 
 ## To test API using ORE blockchain
 
-The API must be published on the ORE Blockchain. Provide the requested information to the Aikon team. You'll then be able to test using the example client code and a config file that you'll donwload for your api from the api.market website
+The API must be published on the ORE Blockchain. Provide the requested information to the Aikon team. You'll then be able to test using the example client code and a config file that you'll download for your api from the api.market website
 
 ## Notes
 
